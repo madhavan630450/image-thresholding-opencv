@@ -59,9 +59,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-**Name:** ARANI VENKATA SUNDARA LEELA KRISHNA
+**Name:** MARIMUTHU MATHAVAN
 
-**Register No:** 212224240013
+**Register No:** 21222424230153
 
 ## Output
 
